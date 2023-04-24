@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=Status&message=CURSANDO&color=blue&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?label=Status&message=EM_ANDAMENTO&color=blue&style=for-the-badge"/>
 </p>
 
 #
