@@ -1,5 +1,8 @@
 # PySpark
 
+<p align="center">
+<img src="https://github.com/claudiaanjos/big-data-science-semantix/blob/main/images/SPARK-BIG-DATA-PROCESSING.png" width=250/>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=Status&message=CONCLUIDO&color=blue&style=for-the-badge"/>
