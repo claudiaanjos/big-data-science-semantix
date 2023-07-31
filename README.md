@@ -1,7 +1,7 @@
 # Treinamento Big Data Science | Semantix Academy
 
 <p align="center">
-<img src="https://github.com/claudiaanjos/big-data-engineer-semantix/blob/main/images/logo_semantix.png" width="50% />
+<img src="https://github.com/claudiaanjos/big-data-engineer-semantix/blob/main/images/logo_semantix.png" width=50% />
 </p>
 
 # 
