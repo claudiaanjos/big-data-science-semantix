@@ -6,12 +6,6 @@
 
 # 
 
-<p align="center">
-<img src="https://img.shields.io/static/v1?label=Status&message=FINALIZADO&color=blue&style=for-the-badge"/>
-</p>
-
-#
-
 ### 📚  Descrição
 
 Programa de formação em Big Data Sicence promovido pela [Semantix Academy](https://us.semantix.ai/academy).
