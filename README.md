@@ -8,7 +8,7 @@
 
 ### 📚  Descrição
 
-Programa de formação em Big Data Sicence promovido pela [Semantix Academy](https://us.semantix.ai/academy).
+Programa de formação em Big Data Science promovido pela [Semantix Academy](https://us.semantix.ai/academy).
 
 #
 
